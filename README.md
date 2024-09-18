@@ -1,4 +1,4 @@
-Hello!
+## Welcome to working with data!
 
 Welcome to GitHub - I expect some of the people reading this are unfamiliar with GitHub. It's a tool for managing code and other computer files. Think of it like Google Drive for code. 
 

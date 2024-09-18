@@ -1,8 +1,6 @@
 Hello!
 
-This is part of a quick and dirty guide to working with data as a journlaist. 
+Welcome to GitHub - I expect some of the people reading this are unfamiliar with GitHub. It's a tool for managing code and other computer files. Think of it like Google Drive for code. 
 
-+ Here's a [link](https://docs.google.com/presentation/d/1vNzgiLpKXFEUjdFqwEpLRqzsRJBhKbIe0Z910XUb4wE/edit?usp=sharing) to the slide deck that goes with this session.
-+ Here's a link to a "handout" style version of that. 
-+ Here's a link to some sample data that we'll use.
-+ Here's a link to a resource guide that you can reference whenever you'd please. 
+I use this repository (think of it like a folder) to manage sharing files when I do data workshops. 
++ [SIU 2024](SIU 2024/)

@@ -4,3 +4,4 @@ Welcome to GitHub - I expect some of the people reading this are unfamiliar with
 
 I use this repository (think of it like a folder) to manage sharing files when I do data workshops. 
 + [SIU](SESSIONS/SIU_2024/README.md)
++ [UIS](SESSIONS/UIS_2024/README.md)

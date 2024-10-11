@@ -12,13 +12,20 @@
 + **[FBI Uniform Crime Reporting](https://www.fbi.gov/how-we-can-help-you/more-fbi-services-and-information/ucr)**
 
 
-## State data 
+## Useful state data 
++ **[Illinois Open Data portal](https://data.illinois.gov/)**
 + **[Illinois Uniform Crime Reporting](https://isp.illinois.gov/CrimeReporting)**
-+ **[]()**
-+ **[]()**
-+ **[]()**
-+ **[]()**
-+ **[]()**
++ **[Illinois State Report Card](https://www.isbe.net/reportcard)**
++ **[Commission on Government Forecasting and Accountability](https://cgfa.ilga.gov/)**
+    + Good for budget and other financial data 
++ **[Legislative reports](https://www.ilga.gov/reports/default.asp)**
+    + While not data per se, it's useful for other reasons and can easily be turned into data with a little elbow grease and/or scraping 
++ **[Illinois Criminal Justice Information Authrity](https://icjia.illinois.gov/)**
+    + Call them, they share. 
++ **[Illinois Early Childhood Asset Map](https://iecam.illinois.edu/)**
++ **[IDPH Data Hub](https://dph.illinois.gov/data-statistics.html)**
++ **[U of I replication "Data Bank"](https://databank.illinois.edu/)**
++ **[Comptroller Salary Database](https://illinoiscomptroller.gov/financial-reports-data/data-sets-portals/salary-database)**
 
 
 ## Cleaning data

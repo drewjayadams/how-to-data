@@ -68,7 +68,7 @@ That said, it can be nice to have a reference sheet for the basics. Hopefully th
     + Format: =DAY(date)
     + =DATEDIF() is useful for calculating the difference between date formattes cells as well.  
 + **BONUS: =REGEXMATCH() and =REGEXEXTRACT().** Regex, short for regular expressions, is very powerful tool to conuct pattern matching. These forumalas use regex to search/match or extract a string from within a larger string. This is incredibly useful and also quite complicated. Google it or ask Andrew if you want to learn more. I'm not gonna tell you how to use it here, but just know this is the answer to the question "How do I search for something?" or "How do I check if a cell contains a specefic phrase?"
-    + [Regex101](https://regex101.com/) is my favorite tool for testing regular expressions, but others exist. 
+    + [Regex101](https://regex101.com/) is my favorite tool for testing regular expressions, but other options are available. 
 
 ## Pivot tables 
 Under Insert --> Pivot Table. Opens up a new sheet within the file with a pivot table. This allows you to create a new table that runs calculations for you. Usually only useful if you have data with multiple columns of interesting variables, if you need to filter stuff out, if you need to average across rows based on a condition or - as is often the case - you need to do all of that at once. 

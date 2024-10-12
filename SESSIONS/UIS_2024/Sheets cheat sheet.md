@@ -1,5 +1,7 @@
 # Sheets in a hurry 
-Need a quickcheat sheet to remember some basic Google Sheets stuff? Here you go. Almost everything here works either identically in Microsoft Excel, LibreOffice Calc and OpenOffice Calc (or nearly identically), so this can also serve as a guide to basically any spreadsheet software.  
+Almost everything here works either identically in Microsoft Excel, LibreOffice Calc and OpenOffice Calc (or nearly identically), so this can also serve as a guide to basically any spreadsheet software. As with all cmputer sciencce and all data journalism: it's about tinkering and learning as you go. If you don't know how to do something, ask a friend or Google it. You'll notice I say 'Google it' a lot here. It's not meant to be dismissive! Googling it is literally how the pro's do it. Figuring it out as you go is how everyone learns in the real world. 
+
+That said, it can be nice to have a reference sheet for the basics. Hopefully this helps on that front. 
 
 ## General UI stuff
 + **Drag to duplicate.** To copy a formula across multiple cells, drag from the bottom right corner. This will copy any cells referenced in that formula _relative to the position of the original cell_. 
@@ -36,7 +38,7 @@ Need a quickcheat sheet to remember some basic Google Sheets stuff? Here you go.
 
 + **=AVERAGE(), =MEDIAN() and =SUM().** Calculates the mean, median and sum of a range. 
     + Format: =AVERAGE(value1, value2, value3, etc) OR =AVERAGE(range)
-+ **=COUNT() and =COUNTUNIQE().** Calculates the number of values in a range (or the number of unique values in a range). 
++ **=COUNT(), =COUNTA() and =COUNTUNIQE().** Calculates the number of values in a range (or the number of unique values in a range). COUNT is numerical values, COUNTA is all values. 
     + Format: =COUNT(value1, value2, value3, etc) OR =COUNT(range)
 + **=UNIQUE().** Returns an array of every unique value from a range. 
     + Format: =UNNIQUE(value1, value2, value3, etc) OR =UNIQUE(range)
@@ -65,9 +67,21 @@ Need a quickcheat sheet to remember some basic Google Sheets stuff? Here you go.
     + Format: =DATE(year, month, day)
     + Format: =DAY(date)
     + =DATEDIF() is useful for calculating the difference between date formattes cells as well.  
-+ **BONUS: =REGEXMATCH() and =REGEXEXTRACT().** A very powerful tool to search/match or extract a string from within a larger string. This is incredibly useful and also quite complicated. Google it or ask Andrew if you want to learn more. I'm not gonna tell you how to use it here, but just know this is the answer to the question "How do I search for something?" or "How do I check if a cell contains a specefic phrase?"
++ **BONUS: =REGEXMATCH() and =REGEXEXTRACT().** Regex, short for regular expressions, is very powerful tool to conuct pattern matching. These forumalas use regex to search/match or extract a string from within a larger string. This is incredibly useful and also quite complicated. Google it or ask Andrew if you want to learn more. I'm not gonna tell you how to use it here, but just know this is the answer to the question "How do I search for something?" or "How do I check if a cell contains a specefic phrase?"
+    + [Regex101](https://regex101.com/) is my favorite tool for testing regular expressions, but others exist. 
 
 ## Pivot tables 
 Under Insert --> Pivot Table. Opens up a new sheet within the file with a pivot table. This allows you to create a new table that runs calculations for you. Usually only useful if you have data with multiple columns of interesting variables, if you need to filter stuff out, if you need to average across rows based on a condition or - as is often the case - you need to do all of that at once. 
 
-It can be intimidating. Here is a [video workshop from GIJN](https://youtu.be/C9wAtU7HA8A?t=1305) (starts getting into pivots around 21 minutes) and a [written tutorial from Stanford](http://www.padjo.org/tutorials/spreadsheets/basic-pivot-tables/). 
+The most basic pivot table is constructed by selecting one varables for "Rows" and one for "Values." Ignore the other fields. 
+
+For example, take this dataset concerning schools: 
+<div style="text-align:center"><img src="pics/pivotdata.png" alt="It's a dataset with columns for school names and city" width="400"/></div><br><br>
+
+Let's construct a pivot table to count the number of schools in each city. We select "City" as our "Rows" and then "School Name" as our value. We make sure that in the values dialogue box, we select "Summrize by: COUNTA" to return the count of each unique school name within each city, as below. 
+
+<div style="text-align:center"><img src="pics/pivot.png" alt="It's pivot table menu" width="200"/></div><br><br>
+
+You can also do that with various mathematical formulas for numerical data as well as add multiple "Values" to add new sections to the table or "columns" to compare multiple things at once. We'll go over more details and examples in-person, but if you needa refersher here are some resources: 
++ [Video workshop from GIJN](https://youtu.be/C9wAtU7HA8A?t=1305) (starts getting into pivots around 21 minutes)
++ [Written tutorial from Stanford](http://www.padjo.org/tutorials/spreadsheets/basic-pivot-tables/). 

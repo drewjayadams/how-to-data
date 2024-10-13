@@ -1,4 +1,5 @@
 # Vizulaizing 101 
+_last updated 2024-10-12_
 
 So you have some data - or you have an idea for a data story - but aren't sure how to present that data to readers. Great! This is a fun problem to have. Here is a guide on what type of visualizations work well for different types of data. 
 

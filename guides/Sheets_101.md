@@ -1,4 +1,6 @@
 # Sheets in a hurry 
+_last updated 2024-10-12_
+
 Almost everything here works either identically in Microsoft Excel, LibreOffice Calc and OpenOffice Calc (or nearly identically), so this can also serve as a guide to basically any spreadsheet software. As with all cmputer sciencce and all data journalism: it's about tinkering and learning as you go. If you don't know how to do something, ask a friend or Google it. You'll notice I say 'Google it' a lot here. It's not meant to be dismissive! Googling it is literally how the pro's do it. Figuring it out as you go is how everyone learns in the real world. 
 
 That said, it can be nice to have a reference sheet for the basics. Hopefully this helps on that front. 

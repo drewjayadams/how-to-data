@@ -17,7 +17,7 @@ Jump to a section:
 + [Tables](#tables)
 + [Pictograms](#pictograms)
 + [Choropleth maps](#choropleth-maps)
-+ [Symbol and pin maps](#symbol--pin-maps) NOT DONE 
++ [Symbol and pin maps](#symbol--pin-maps)
 + [Scatter plots](#scatter-plots)
 + [Animations](#animations)
 + [Network graphs](#network-graphs)

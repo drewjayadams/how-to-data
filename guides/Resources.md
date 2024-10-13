@@ -1,4 +1,6 @@
 # Resources  
+_last updated 2024-10-12_
+
 ## General data advice
 + **[Data Journalism Handbook](https://datajournalism.com/read/handbook/two)**
 + **[NICAR-LEARN](https://learn.ire.org/)**

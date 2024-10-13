@@ -1,3 +1,2 @@
-Find your session below: 
-+ [SIU 2024](SIU_2024/)
-+ [UIS 2024](UIS_2024/)
++ [SIU September 2024](SIU_2024/)
++ [UIS October 2024](UIS_2024/)

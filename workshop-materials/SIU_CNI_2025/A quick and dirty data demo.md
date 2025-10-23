@@ -1,5 +1,4 @@
-## Hello!
-This is meant to be a quick and dirty guide to working with data as a journlaist.
+## Let's do some math
 
 The goal is to get you brushed up on some data basics and then get you familiarized (or re-familiarized) with Sheets, Datawrapper and Flourish. 
 
@@ -7,5 +6,7 @@ The goal is to get you brushed up on some data basics and then get you familiari
 + Here's a ["handout" style version](Presentation.md) of that. 
 + Here's a link to [some sample data](https://docs.google.com/spreadsheets/d/1KZtWVwPkgMPKtxwbW2N7jch3UxODuvV2BymARbjKRZ4/edit?usp=sharing) that we'll use.
   + Be sure to go to "File" --> "Make a copy" 
-+ Here's a [resource guide](Resources.md) that you can reference whenever you'd please. 
++ Here's a [resource guide](Resources.md) that you can reference whenever you'd please.
+
+Questions? Comments? Want to workshop an idea? Email me at drew.jay.adams@gmail.com. 
 

@@ -5,4 +5,5 @@ Welcome to GitHub - I expect some of the people reading this are unfamiliar with
 I use this repository (think of it like a folder) to manage sharing files when I do data workshops. Looking for stuff from one of those? Try these links:  
 + [SIU - September 2024](workshop-materials/SIU_2024/Data%20101%20for%20investigations.md)
 + [UIS - October 2024](workshop-materials/UIS_2024/Data%20journalism%20is%20your%20friend.md)
-+ [UIS - OCtober 2025](workshop-materials/UIS/2025/Data%20journalism%20is%20your%20friend.md)
++ [UIS - October 2025](workshop-materials/UIS_2025/Data%20journalism%20is%20your%20friend.md)
++ [SIU/CNI - October 2025](workshop-materials/SIU_CNI_2025/A%20quick%20and%20dirty%20data%20demo.md)

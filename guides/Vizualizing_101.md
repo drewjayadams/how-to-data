@@ -1,5 +1,5 @@
 # Vizualizing 101 
-_last updated 2024-10-12_
+_last updated 2025-10-23_
 
 So you have some data - or you have an idea for a data story - but aren't sure how to present that data to readers. Great! This is a fun problem to have. Here is a guide on what type of visualizations work well for different types of data. 
 
@@ -242,7 +242,7 @@ Network graphs describe the relationships between things by connecting nodes in 
 Chord digrams are basically a different shape of network graph. They're used a lot in life sciences because genetecists go crazy over them. They also get used in real hardcore data circles. 
 
 ### When to use: 
-+ To show relationshisp ebtween a rleativelysmall number of entities or categories
++ To show relationshisp ebtween a releatively small number of entities or categories
 ### Pros:
 + When done right, they are very,very  pretty 
 + Reads as "real" data science stuff 
@@ -262,9 +262,7 @@ Sankey diagrams show the flow of something between cateories. It's ofen used to 
 + Often the only way to show "flow"
 ### Cons: 
 + Is _always_ confusing to readers 
-+ It has... uhh... connotations*
-
-* Real talk: there is an NSFW joke about Sankey diagrams that data people on the internet can't let go of. Any time one gains popularity, someone in the comments brings it up. For a not-insignificant segment of the population, this type of diagram will only ever be associated with a certain person's group sex act. If you want to know more, there's a [Know Your Meme](https://knowyourmeme.com/memes/came-in-a-fluffer) page for it. There are no spicy images, but it is an NSFW topc. You were warned. 
++ It has uncomfortable connotations. Ask Andrew about them. 
 
 <br><br>
 
@@ -279,3 +277,4 @@ If you want an even cooler example, you may have seen this digram type to visual
 <img src="pics/image-15.png" alt="It's a Sankey diagram" width="300"/>
 
 But this diagram was invented wholecloth by Ed Hawkins in 2016. You can just make stuff up! The only rules in journalism is that it has to serve the story and be accurate. Go crazy. 
+

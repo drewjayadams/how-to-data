@@ -7,3 +7,4 @@ I use this repository (think of it like a folder) to manage sharing files when I
 + [UIS - October 2024](workshop-materials/UIS_2024/Data%20journalism%20is%20your%20friend.md)
 + [UIS - October 2025](workshop-materials/UIS_2025/Data%20journalism%20is%20your%20friend.md)
 + [SIU/CNI - October 2025](workshop-materials/SIU_CNI_2025/A%20quick%20and%20dirty%20data%20demo.md)
++ [UIS - October 2026](workshop-materials/UIS_2026/Data%20journalism%20is%20your%20friend.md)
